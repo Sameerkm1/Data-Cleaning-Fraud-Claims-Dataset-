@@ -1,14 +1,14 @@
-# Data Cleaning Process: Fraudulent Claim on Cars Physical Damage Dataset
+## Data Cleaning Process: Fraudulent Claim on Cars Physical Damage Dataset
 Incorrect data are one of the major factor causing obstruction in creating a model. So I am exploring incorrect data, understanding them and will find solutions to handle them.
 
-# Problems
+## Problems
 (1). Exploring and Handling Incorrect Data
 
 (2). Identifying Outliers
 
 (3). Identifying Missing or Incomplete Data
 
-# Solutions
+## Solutions
 (1). Removing outliers
 
 (2). Replacing outlliers using 'Median' value
